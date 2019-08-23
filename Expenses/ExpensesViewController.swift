@@ -54,6 +54,7 @@ class ExpensesViewController: UIViewController, UITableViewDelegate, UITableView
         }
         
         return cell
+        
     }
     
 
